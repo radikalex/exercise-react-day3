@@ -1,0 +1,18 @@
+.about {
+    width: 100%;
+    height: 90vh;
+    background-image: url('../../../assets/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-text {
+    background-color: whitesmoke;
+    border-radius: 20px;
+    width: 70%;
+    padding: 30px 50px;
+    box-shadow: 5px 5px 10px 0px black;
+}
